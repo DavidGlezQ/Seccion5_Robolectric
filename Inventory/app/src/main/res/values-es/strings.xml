@@ -17,8 +17,8 @@
     <string name="item_product_data">%s \n(x%d)</string>
     <string name="item_product_score">%.2f</string>
 
-    <string name="main_msg_welcome">Welcome…</string>
-    <string name="main_menu_title_exit">Exit</string>
-    <string name="menu_main_action_history">Go to History</string>
-    <string name="menu_main_action_exit">Exit</string>
+    <string name="main_msg_welcome">Bienvenido…</string>
+    <string name="main_menu_title_exit">Salir</string>
+    <string name="menu_main_action_history">Ir al Historial</string>
+    <string name="menu_main_action_exit">Salir</string>
 </resources>
